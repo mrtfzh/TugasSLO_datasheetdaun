@@ -1,2 +1,2 @@
 # TugasSLO_datasheetdaun
-Tugas SLO melakukan traning dataseheet daun. 
+Tugas SLO melakukan training datasheet daun. 
